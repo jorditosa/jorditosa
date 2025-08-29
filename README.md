@@ -56,8 +56,7 @@ const jordi = {
 ## ☕ Support My Work
 
 If you find my projects helpful or interesting, consider buying me a coffee! Your support helps me continue creating and sharing open-source projects.
-
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="jordist" data-color="#FFDD00" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support%20my%20work-FFDD00?style=flat&labelColor=black&logo=buy-me-a-coffee&logoColor=white&color=FFDD00)](https://www.buymeacoffee.com/jordist)
 
 ---
 
