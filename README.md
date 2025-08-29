@@ -14,7 +14,6 @@ I'm a passionate **Frontend Developer** specializing in **Hybrid Mobile Developm
 
 ## 📈 GitHub Stats
 
-![Jordi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorditosa&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jorditosa&layout=compact&theme=radical)
 
 ## 🌱 Currently Learning
