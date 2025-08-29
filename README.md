@@ -51,8 +51,7 @@ const jordi = {
 ## 📫 Let's Connect!
 
 - 🌐 Website: [seckat.com](https://seckat.com)
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/jorditosa)
-- 🐦 Twitter: [@jorditosa](https://twitter.com/jorditosa)
+- 💼 LinkedIn: [Connect with me](www.linkedin.com/in/jordi-s-2b658245)
 
 ## ☕ Support My Work
 
