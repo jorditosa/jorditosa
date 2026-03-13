@@ -38,19 +38,21 @@ With my free time, I'm the founder of **[Seckat](https://seckat.com)** - a brand
 
 ```javascript
 const jordi = {
-  frontend: ["Next.js", "React", "JavaScript", "TypeScript"],
-  mobile: ["React Native", "Ionic", "Cordova"],
-  backend: ["Node.js", "Express.js", "MongoDB"],
-  testing: ["Playwright", "Jest", "Cypress"],
-  security: ["OWASP", "Security Auditing", "Penetration Testing"],
-  tools: ["Git", "Docker", "VS Code", "Figma"]
+  frontend: ["Next.js", "React", "JavaScript", "TypeScript", "Astro"],
+  mobile: ["Ionic", "Capacitor"],
+  backend: ["Node.js", "Express.js", "python"],
+  database: ["MongoDB  (mongoose)", "PostgreSQL"]
+  testing: ["Playwright", "Jest"],
+  security: ["OWASP", "Security Auditing", "Penetration Testing", "Package auditing"],
+  tools: ["Git", "Docker", "VSCode"]
+  CI/CD: ["Jenkins", "AWS"]
 }
 ```
 
 ## 📫 Let's Connect!
 
--> LinkedIn: [Connect with me](https://www.linkedin.com/in/jordi-s-2b658245)
--> Website: [seckat.com](https://seckat.com)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/jordi-s-2b658245)
+- Website: [seckat.com](https://seckat.com)
 
 ## ☕ Support My Work
 
