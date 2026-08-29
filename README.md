@@ -19,7 +19,6 @@ I'm a passionate **Frontend Developer** specializing in **Hybrid Mobile Developm
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jorditosa&theme=github_dark)
 
 ![Top languages by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorditosa&theme=github_dark)
-![Top languages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorditosa&theme=github_dark)
 
 ## Currently Learning
 
