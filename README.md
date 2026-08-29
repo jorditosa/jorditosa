@@ -1,10 +1,10 @@
-# Hi there, I'm Jordi! 👋
+# Hi there, I'm Jordi!
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate **Frontend Developer** specializing in **Hybrid Mobile Development** and **Cybersecurity**. I love crafting modern, secure, and user-friendly applications that make a difference.
 
-## 🛠️ My Tech Stack & Passions
+## My Tech Stack & Passions
 
 - **Frontend**: Next.js enthusiast — building fast, scalable web applications
 - **Testing**: Playwright for reliable end-to-end testing
@@ -14,11 +14,14 @@ I'm a passionate **Frontend Developer** specializing in **Hybrid Mobile Developm
 - **Methodology**: Spec-Driven Development (SDD) — both spec-first and spec-anchored
 - **AI**: Claude and Claude Code for spec-driven, agent-assisted development
 
-## 📈 GitHub Stats
+## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jorditosa&layout=compact&theme=radical)
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jorditosa&theme=github_dark)
 
-## 🌱 Currently Learning
+![Top languages by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorditosa&theme=github_dark)
+![Top languages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorditosa&theme=github_dark)
+
+## Currently Learning
 
 - Advanced Next.js patterns and optimization techniques
 - Mobile security best practices
@@ -26,18 +29,18 @@ I'm a passionate **Frontend Developer** specializing in **Hybrid Mobile Developm
 - Cloud security implementations
 - Agentic and spec-driven workflows with Claude Code and MCP
 
-## 💡 Fun Facts
+## Fun Facts
 
-- ☕ Coffee fuels my coding sessions
-- 🔐 Security-first mindset in everything I build
-- 📱 Bridging the gap between web and mobile experiences
-- 🚀 Always exploring the latest in frontend technologies
+- Coffee fuels my coding sessions
+- Security-first mindset in everything I build
+- Bridging the gap between web and mobile experiences
+- Always exploring the latest in frontend technologies
 
-## 💼 What I'm Working On
+## What I'm Working On
 
 In my free time, I'm the founder of **[Seckat](https://seckat.com)** — a brand focused on delivering secure and innovative digital solutions.
 
-## 🔧 Technologies I Use
+## Technologies I Use
 
 ```javascript
 const jordi = {
@@ -54,7 +57,7 @@ const jordi = {
 };
 ```
 
-## 📐 Spec-Driven Development (SDD)
+## Spec-Driven Development (SDD)
 
 I build software **spec-first**: the specification is the source of truth and the code is its implementation. Combining this approach with AI agents such as **Claude** keeps intent, tests and implementation aligned from the very first commit.
 
@@ -74,12 +77,12 @@ I build software **spec-first**: the specification is the source of truth and th
 
 Why it pays off: less rework, decisions that can be reviewed, reproducible AI-assisted workflows and documentation that never goes stale.
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/jordi-s-2b658245)
 - Website: [seckat.com](https://seckat.com)
 
-## ☕ Support My Work
+## Support My Work
 
 If you find my projects helpful or interesting, consider buying me a coffee! Your support helps me continue creating and sharing open-source projects.
 
@@ -87,4 +90,4 @@ If you find my projects helpful or interesting, consider buying me a coffee! You
 
 ---
 
-⭐️ From [jorditosa](https://github.com/jorditosa) with ❤️
+From [jorditosa](https://github.com/jorditosa)
